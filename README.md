@@ -1,4 +1,4 @@
-# ITP_LAP
+# ITP_LAB
 Introdunction to programing with C, lab programs! 
 
 Program 1: Program to print ”Hellow world!”.
